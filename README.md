@@ -69,8 +69,11 @@ Senior Mobile Engineer with 6+ years of experience architecting and shipping sca
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pk-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pk-debug&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pk-debug&theme=tokyonight&hide_border=true)
+
+<br/><br/>
+
+![Top Languages](https://github-readme-stats.demolab.com/api/top-langs/?username=pk-debug&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)
 
 </div>
 
@@ -90,6 +93,6 @@ B.Tech in Computer Science & Engineering — CGPA: 7.6/10
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coder.pawan1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pawan-kumar-54aa15195)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=2E9EF7&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=pk-debug&color=2E9EF7&style=flat&label=Profile+Views)
 
 </div>
