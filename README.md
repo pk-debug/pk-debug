@@ -2,7 +2,7 @@
 
 # Hi, I'm Pawan Kumar 👋
 
-### Senior Mobile Engineer — Android & Flutter
+### Senior Mobile Engineer — Android Native & Flutter
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Senior+Mobile+Engineer+%7C+Android+%2B+Flutter;7%2B+Apps+Shipped+%7C+2M%2B+Downloads;Kotlin+%7C+Flutter+%7C+Clean+Architecture)](https://github.com/YOUR-GITHUB-USERNAME)
 
