@@ -69,10 +69,8 @@ Senior Mobile Engineer with 6+ years of experience architecting and shipping sca
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-<sub>⚠️ Replace <code>YOUR-GITHUB-USERNAME</code> above with your GitHub username to activate these cards.</sub>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pk-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pk-debug&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
