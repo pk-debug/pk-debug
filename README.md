@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-Senior Mobile Engineer with 6+ years of experience architecting and shipping scalable Native Android (Kotlin/Java) and cross-platform Flutter applications across BFSI, Fintech, and consumer domains. I've shipped 7+ production apps that together have crossed **2M+ downloads**, with a consistent focus on offline-first reliability, clean architecture, and high crash-free stability.
+Software Engineer with 6+ years of experience architecting and shipping scalable Native Android (Kotlin/Java) and cross-platform Flutter applications across BFSI, Fintech, and consumer domains. I've shipped 7+ production apps that together have crossed **2M+ downloads**, with a consistent focus on offline-first reliability, clean architecture, and high crash-free stability.
 
 ---
 
