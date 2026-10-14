@@ -4,7 +4,7 @@
 
 ### Software Engineer — Java, Kotlin, Android Native, IOS, Flutter & Dart
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Android+%2B+Flutter;7%2B+Apps+Shipped+%7C+2M%2B+Downloads;Kotlin+%7C+Flutter+%7C+Clean+Architecture)](https://github.com/YOUR-GITHUB-USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Java+Android+%2B+Flutter;7%2B+Apps+Shipped+%7C+2M%2B+Downloads;Kotlin+%7C+Flutter+%7C+Clean+Architecture)](https://github.com/YOUR-GITHUB-USERNAME)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coder.pawan1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pawan-kumar-54aa15195)
